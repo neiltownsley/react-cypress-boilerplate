@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/www/comment-api" value="1465937014971" />
+        <entry key="$USER_HOME$/www/stripe-scala" value="1463312389413" />
+        <entry key="C:/local_workspace/workspace10/csv-parser" value="1453203701249" />
+        <entry key="C:/local_workspace/workspace10/csvparser" value="1453203701249" />
+        <entry key="C:/local_workspace/workspace10/di-candidatesyncproxy" value="1451919179156" />
+        <entry key="C:/local_workspace/workspace10/di-clientprofilesync" value="1441635059872" />
+        <entry key="C:/local_workspace/workspace10/di-commons" value="1446563992993" />
+        <entry key="C:/local_workspace/workspace10/di-contactsync" value="1447155787800" />
+        <entry key="C:/local_workspace/workspace10/di-dbshared" value="1439904463686" />
+        <entry key="C:/local_workspace/workspace10/di-jobalertapi" value="1435058427913" />
+        <entry key="C:/local_workspace/workspace10/di-jobapplicationapi" value="1435061886865" />
+        <entry key="C:/local_workspace/workspace10/di-loginapi" value="1433936971935" />
+        <entry key="C:/local_workspace/workspace10/di-personprofileapi" value="1435162022298" />
+        <entry key="C:/local_workspace/workspace10/di-registrationapi" value="1449060913379" />
+        <entry key="C:/local_workspace/workspace10/di-searchableprofilesync" value="1451915901473" />
+        <entry key="C:/local_workspace/workspace10/itjb-advertdicesync" value="1444311290354" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/AugmentedDataParser" value="1454601888256" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/CompaniesDiceSync" value="1441103683662" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/ProfileDiceSync" value="1445342588258" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/ResponsysOptOutSync" value="1441200913415" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/SearchableProfileSync" value="1445880402664" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/ShortlistedJobSync" value="1441200913415" />
+        <entry key="C:/local_workspace/workspace10/itjb-misc-utils/csvparser" value="1453378078564" />
+        <entry key="C:/local_workspace/workspace12/testingstuff" value="1429781397829" />
+        <entry key="C:/temp/akkatest" value="1427375059521" />
+        <entry key="C:/test/spray-swagger-sample" value="1427380600797" />
+        <entry key="D:/Tutorials/scalatrain_combined/scalatrain1" value="1429607830000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
